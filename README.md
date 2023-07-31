@@ -24,3 +24,4 @@ Aprendiz das melhores stacks, experimentando e desenvolvendo produtos web, mas s
 ## Contato: 
 - [Site](http://www.leoanselmo.com)<br/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoanselmo&hide_progress=true)
