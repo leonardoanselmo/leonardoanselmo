@@ -24,4 +24,4 @@ Aprendiz das melhores stacks, experimentando e desenvolvendo produtos web, mas s
 ## Contato: 
 - [Site](http://www.leoanselmo.com)<br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=php,lua)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=php,lua,glsl,astro,rust,go)
